@@ -15,3 +15,4 @@ This repository contains the code for a raspberry pi on board computer in a two 
 
 # Contributors
 1. [hongsia](https://github.com/hongsia)
+2. [nikv96](https://github.com/nikv96)
